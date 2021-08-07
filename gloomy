@@ -9,9 +9,17 @@
       "title": "Chapter 1",
       "volume": "Volume 1",
       "groups": {
-        "<group name>": "fiel&thecats"
+        "<group name>": "fielnthecats"
       },
       "last_updated": "1616368746"
-    }
+    },
+     "2": {
+      "title": "Chapter 2",
+      "volume": "Volume 1",
+      "groups": {
+        "<group name>": "fielnthecats"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
